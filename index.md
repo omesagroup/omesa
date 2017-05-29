@@ -17,7 +17,15 @@ OMESA has 4 main objectives:
   - Provide guiding principles and definition of terms to ensure the architecture can be interpreted and applied.
   - Deliver a vendor agnostic capability model that can add tangible business value to organisations.
   - Bring back architectural best practices (based on real live experiences) into modern solutions that are suitable for organisations of any size and industry.
+  
+## Copyright and license
+
+All content is under copyright 2017 [omesagroup][link4]. Docs released under the [Creative Commons][link5] license.
 
 [link1]: <http://www.reactivemanifesto.org>
 [link2]: <https://12factor.net>
 [link3]: <http://microservices.io>
+[link4]: <https://github.com/omesagroup/omesa/blob/master/contributors>
+[link5]: <https://github.com/omesagroup/blob/master/LICENSE>
+
+
