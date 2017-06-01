@@ -18,6 +18,31 @@ OMESA has 4 main objectives:
   - Deliver a vendor agnostic capability model that can add tangible business value to organisations.
   - Bring back architectural best practices (based on real live experiences) into modern solutions that are suitable for organisations of any size and industry.
   
+## Reference Architecture
+
+The OMESA model aims to simplify software design by relying on a reference architecture which can be further decomposed into Layers, Sub-Layers, Core Capabilities and Design Patterns. All of these elements are building blocks of an enterprise architecture and thus none of them are necessarily enforced. 
+
+![](/images/omesa_reference_arch_6.png)
+
+Within this context, Core Capabilities are key when it comes to justifying the presence of any particular layer and ultimately producing a cohesive design by bridging the gap between high-level (conception: layers, sublayers) and low-level (execution: design patterns) perspectives. For example:
+
+![](/images/omesa_service_implementation_2.png)
+
+A huge part of our body of work is focused on identifying, describing and mapping these Core Capabilities to qualified design patterns throughout the model's different layers.
+
+## Fundamental Layers
+
+OMESA proposes the following fundamental layers: 
+
+![](/images/omesa_reference_arch_1.png)
+
+These four categories constitute a fairly simple entry point to the model, but should be comprehensive enough to encompass a high variety of concepts related to software architecture and design:
+
+1. Delivery Experience
+2. API
+3. [Service Implementation][link8]
+4. Persistence
+
 ## Copyright and License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
@@ -29,5 +54,9 @@ Copyright 2017 [omesagroup][link4]
 [link3]: <http://microservices.io>
 [link4]: <https://github.com/omesagroup/omesa/blob/master/contributors>
 [link5]: <https://github.com/omesagroup/blob/master/LICENSE>
+[link6]: <https://github.com/omesagroup/blob/master/deliveryexperience.md>
+[link7]: <https://github.com/omesagroup/blob/master/api.md>
+[link8]: <https://github.com/omesagroup/blob/master/serviceimplementation.md>
+[link9]: <https://github.com/omesagroup/blob/master/persistence.md>
 
 
