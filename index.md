@@ -56,7 +56,7 @@ Copyright 2017 [omesagroup][link4]
 [link5]: </LICENSE>
 [link6]: </deliveryexperience.md>
 [link7]: </api.md>
-[link8]: </serviceimplementation.md>
+[link8]: <http://omesa.io/serviceimplementation>
 [link9]: </persistence.md>
 
 
