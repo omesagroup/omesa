@@ -18,9 +18,9 @@ OMESA has 4 main objectives:
   - Deliver a vendor agnostic capability model that can add tangible business value to organisations.
   - Bring back architectural best practices (based on real live experiences) into modern solutions that are suitable for organisations of any size and industry.
   
-## Fundamental Layers
+## Fundamental Building Blocks
 
-OMESA proposes the following fundamental layers: 
+OMESA proposes the following fundamental building blocks: 
 
 ![](/images/omesa_reference_arch_1.png)
 
@@ -33,7 +33,7 @@ These four categories constitute a fairly simple entry point to the model, but s
 
 ## Reference Architecture
 
-Once the fundamental layers have been established, the OMESA model aims to simplify software design by relying on a reference architecture which can be further decomposed into Sub-Layers, Core Capabilities and Design Patterns. All of these elements are building blocks of an enterprise architecture and thus none of them are necessarily enforced. 
+Once the fundamental building blocks have been established, the OMESA model aims to simplify software design by relying on a reference architecture which can be further decomposed into smaller, more specific blocks such as Core Capabilities and Design Patterns. All of these elements can be part of an enterprise architecture but none of them are necessarily enforced. 
 
 ![](/images/omesa_reference_arch_6.png)
 
