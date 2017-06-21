@@ -37,11 +37,11 @@ Once the fundamental building blocks have been established, the OMESA model aims
 
 ![](/images/omesa_reference_arch_6.png)
 
-Within this context, Core Capabilities are key when it comes to justifying the presence of any particular layer and ultimately producing a cohesive design by bridging the gap between high-level (conception: layers, sublayers) and low-level (execution: design patterns) perspectives. For example:
+Within this context, identifying Core Capabilities becomes key when it comes to justifying the presence of any particular building block and ultimately producing a cohesive design by bridging the gap between high-level (conception: fundamental building blocks) and low-level (execution: design patterns) perspectives. For example:
 
 ![](/images/omesa_service_implementation_2.png)
 
-A huge part of our body of work is focused on identifying, describing and mapping these Core Capabilities to qualified design patterns throughout the model's different layers.
+A huge part of our body of work is focused on identifying and describing these Core Capabilities, as well as mapping them to qualified design patterns accross the architectural model.
 
 ## Copyright and License
 
