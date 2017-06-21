@@ -46,7 +46,7 @@ Identifying the desired and / or necessary Core Capabilities for a particular so
 
 ## References
 
-The following references were used by OMESA for research and example purposes
+The following references were used by OMESA exclusively for research and example purposes. Credit due to the respective authors & owners of the content.
 
 * http://soapatterns.org/		
 * http://www.enterpriseintegrationpatterns.com		
