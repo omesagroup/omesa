@@ -33,7 +33,7 @@ These four categories constitute a fairly simple entry point to the model, but s
 
 ## Reference Architecture
 
-Once the fundamental building blocks have been established, the OMESA model aims to simplify software design by relying on a reference architecture which can be further decomposed into smaller, more specific blocks such as Core Capabilities and Design Patterns. All of these elements can be part of an enterprise architecture but none of them are necessarily enforced. 
+Once the fundamental building blocks have been established, the OMESA model aims to simplify software design by relying on a reference architecture which can be further decomposed into smaller, more specific blocks. All of these elements can be part of an enterprise architecture but none of them are necessarily enforced. 
 
 ![](/images/omesa_reference_arch_6.png)
 
