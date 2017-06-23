@@ -43,6 +43,14 @@ Within this context, identifying Core Capabilities becomes key when it comes to 
 
 A huge part of our body of work is focused on identifying and describing these Core Capabilities, as well as mapping them to qualified design patterns accross the architectural model.
 
+## Standard Notation
+
+Besides the conceptual model, OMESA introduces also a simple standard notation which can be used to put together architectural blueprints based on its principles:
+
+![](/images/omesa_notation_1.png)
+
+As shown by the diagram above, the OMESA notation is capable of expressing the basic architectural characteristics of both a Monolithic and a Microservices design. 
+
 ## Copyright and License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
