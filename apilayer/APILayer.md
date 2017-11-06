@@ -14,6 +14,7 @@ Depending on the purpose degree of the API, OMESA divides the API layer into two
 
 Within OMESA, Core Capabilities are meant to simplify design, as well as to justify and explain the presence of any layer in a software architecture. Once the desired capabilities have been identified, they can be usually realized by applying or extending one or more design patterns.
 
+![](/apilayer/APILayer.png)
 
 ## Core Capability Definitions
 
