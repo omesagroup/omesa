@@ -66,6 +66,6 @@ Copyright 2017 [omesagroup][link4]
 [link7]: </api.md>
 [link8]: <http://omesa.io/serviceimplementation>
 [link9]: </persistence.md>
-[link10]: <http://omesa.io/apilayer/APILayer.md>
+[link10]: <http://omesa.io/apilayer/>
 
 
