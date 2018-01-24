@@ -27,7 +27,7 @@ OMESA proposes the following fundamental building blocks:
 These four categories constitute a fairly simple entry point to the model, but should be comprehensive enough to encompass a high variety of concepts related to software architecture and design:
 
 1. Delivery Experience
-2. API
+2. [API][link10]
 3. [Service Implementation][link8]
 4. Persistence
 
@@ -66,5 +66,6 @@ Copyright 2017 [omesagroup][link4]
 [link7]: </api.md>
 [link8]: <http://omesa.io/serviceimplementation>
 [link9]: </persistence.md>
+[link10]: </apilayer/APILayer.md>
 
 
