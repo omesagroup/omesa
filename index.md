@@ -17,7 +17,55 @@ OMESA has 4 main objectives:
   - Provide guiding principles and definition of terms to ensure the architecture can be interpreted and applied.
   - Deliver a vendor agnostic capability model that can add tangible business value to organisations.
   - Bring back architectural best practices (based on real live experiences) into modern solutions that are suitable for organisations of any size and industry.
+  
+## Fundamental Building Blocks
+
+OMESA proposes the following fundamental building blocks: 
+
+![](/images/omesa_reference_arch_1.png)
+
+These four categories constitute a fairly simple entry point to the model, but should be comprehensive enough to encompass a high variety of concepts related to software architecture and design:
+
+1. Delivery Experience
+2. [API][link10]
+3. [Service Implementation][link8]
+4. Persistence
+
+## Reference Architecture
+
+Once the fundamental building blocks have been established, the OMESA model aims to simplify software design by relying on a reference architecture which can be further decomposed into smaller, more specific blocks. All of these elements can be part of an enterprise architecture but none of them are necessarily enforced. 
+
+![](/images/omesa_reference_arch_6.png)
+
+Within this context, identifying Core Capabilities becomes key when it comes to justifying the presence of any particular building block and ultimately producing a cohesive design by bridging the gap between high-level (conception: fundamental building blocks) and low-level (execution: design patterns) perspectives. For example:
+
+![](/images/omesa_service_implementation_2.png)
+
+A huge part of our body of work is focused on identifying and describing these Core Capabilities, as well as mapping them to qualified design patterns accross the architectural model.
+
+## Standard Notation
+
+Besides the conceptual model, OMESA introduces also a simple standard notation which can be used to put together architectural blueprints based on its principles:
+
+![](/images/omesa_notation_1.png)
+
+As shown by the example above, the OMESA notation is perfectly capable of expressing the basic architectural characteristics of a solution based on either a Monolithic or a Microservices design approach. 
+
+## Copyright and License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Copyright 2017 [omesagroup][link4]
 
 [link1]: <http://www.reactivemanifesto.org>
 [link2]: <https://12factor.net>
 [link3]: <http://microservices.io>
+[link4]: </contributors>
+[link5]: </LICENSE>
+[link6]: </deliveryexperience.md>
+[link7]: </api.md>
+[link8]: <http://omesa.io/serviceimplementation>
+[link9]: </persistence.md>
+[link10]: <http://omesa.io/apilayer/>
+
+
