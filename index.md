@@ -43,6 +43,12 @@ Within this context, identifying Core Capabilities becomes key when it comes to 
 
 A huge part of our body of work is focused on identifying and describing these Core Capabilities, as well as mapping them to qualified design patterns accross the architectural model.
 
+In addition to the core capabilities we need to provide more operational aspects, denoted by the vertical segments:
+1. Management
+2. Business Analytics
+3. [Monitoring][link11]
+4. Security
+
 ## Standard Notation
 
 Besides the conceptual model, OMESA introduces also a simple standard notation which can be used to put together architectural blueprints based on its principles:
@@ -67,5 +73,6 @@ Copyright 2017 [omesagroup][link4]
 [link8]: <http://omesa.io/serviceimplementation>
 [link9]: </persistence.md>
 [link10]: <http://omesa.io/apilayer/>
+[link11]: <http://omesa.io/monitoring/monitoring.md>
 
 
