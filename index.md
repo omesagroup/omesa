@@ -43,6 +43,7 @@ Within this context, identifying Core Capabilities becomes key when it comes to 
 
 A huge part of our body of work is focused on identifying and describing these Core Capabilities, as well as mapping them to qualified design patterns accross the architectural model.
 
+### Operational Capabilities
 In addition to the core capabilities we need to provide more operational aspects, denoted by the vertical segments:
 1. Management
 2. Business Analytics
