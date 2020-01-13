@@ -57,4 +57,3 @@ The following references were used by OMESA exclusively for research and example
 * http://www.enterpriseintegrationpatterns.com/
 * http://oauthbible.com/
 * https://www.slideshare.net/prabathsiriwardena/api-security-patterns-and-practices
-
